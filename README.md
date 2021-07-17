@@ -1,8 +1,8 @@
-👋 Hi, I’m @acanoox
-👀 I’m interested in .. web application design
-🌱 I’m currently learning ... ReactJs & NodeJs
-💞️ I’m looking to collaborate on ... startup
-📫 How to reach me ... acanoo@miumg.edu.gt
+• 👋 Hi, I’m @acanoox
+• 👀 I’m interested in .. web application design
+• 🌱 I’m currently learning ... ReactJs & NodeJs
+• 💞️ I’m looking to collaborate on ... startup
+• 📫 How to reach me ... acanoo@miumg.edu.gt
 
 <!---
 Acanoo/Acanoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
